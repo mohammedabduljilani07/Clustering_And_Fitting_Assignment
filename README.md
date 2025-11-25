@@ -9,13 +9,13 @@
 
 ---
 
-## 📋 Description
+##  Description
 
 This project performs comprehensive customer segmentation analysis using k-means clustering and polynomial curve fitting on the Mall Customer Segmentation dataset. The analysis identifies distinct customer behavioral groups and models the relationship between annual income and spending patterns.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** [Mall Customer Segmentation - Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
@@ -25,11 +25,11 @@ This project performs comprehensive customer segmentation analysis using k-means
 
 ---
 
-## 🛠️ Installation
+##  Installation
 ```bash
 # Clone repository
-git clone https://github.com/mohammedabduljilani07/clustering-fitting-assignment.git
-cd clustering-fitting-assignment
+git clone https://github.com/mohammedabduljilani07/Clustering_And_Fitting_Assignment.git
+cd Clustering_And_Fitting_Assignment
 
 # Install dependencies
 pip install -r requirements.txt
@@ -37,7 +37,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+##  Usage
 ```bash
 python clustering_and_fitting.py
 ```
@@ -46,7 +46,7 @@ python clustering_and_fitting.py
 
 ---
 
-## 📈 Key Results
+##  Key Results
 
 - **Optimal Clusters:** k=5 (Silhouette Score: 0.55)
 - **Customer Segments:** 
@@ -60,7 +60,7 @@ python clustering_and_fitting.py
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 ```
 clustering-fitting-assignment/
 ├── README.md
@@ -77,7 +77,7 @@ clustering-fitting-assignment/
 
 ---
 
-## 🎯 Methods
+##  Methods
 
 - **Statistical Analysis:** Mean, Std Dev, Skewness, Kurtosis
 - **Clustering:** K-means with RobustScaler normalization
@@ -87,20 +87,20 @@ clustering-fitting-assignment/
 
 ---
 
-## 📝 Report
+##  Report
 
 See `clustering_fitting_report.pdf` for complete 3-page analysis report.
 
 ---
 
-## 👤 Author
+##  Author
 
-Mohammed Abdul Jilani  
-University of Hertfordshire  
+Mohammed Abdul Jilani 
+University of Hertfordshire 
 Applied Data Science 1 - November 2025
 
 ---
 
-## 📄 License
+##  License
 
 Submitted as coursework. All rights reserved.
