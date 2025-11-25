@@ -89,7 +89,7 @@ clustering-fitting-assignment/
 
 ##  Report
 
-See `clustering_fitting_report.pdf` for complete 3-page analysis report.
+See `Clustering_And_Fitting_Report.pdf` for complete 3-page analysis report.
 
 ---
 
